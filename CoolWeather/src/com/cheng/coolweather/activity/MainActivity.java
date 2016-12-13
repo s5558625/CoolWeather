@@ -1,4 +1,7 @@
-package com.cheng.coolweather;
+package com.cheng.coolweather.activity;
+
+import com.cheng.coolweather.R;
+import com.cheng.coolweather.R.layout;
 
 import android.app.Activity;
 import android.os.Bundle;
